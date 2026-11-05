@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm James
 
-<!--
-**james-mason00/james-mason00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student at the University of Michigan interested in software development, embedded programming, and computer engineering.
 
-Here are some ideas to get you started:
+## Programming Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Some projects are kept private to comply with university course policies. Please feel free to reach out if you'd like to learn more or request access.*
+
+### Euchre Card Game
+**C++**
+- Implemented a playable Euchre card game supporting human and computer-controlled players.
+- Developed card dealing, trick-taking, trump selection, and team-based scoring.
+- Used object-oriented programming, inheritance, and polymorphism.
+
+### Naive Bayes Machine Learning Classifier
+**C++**
+- Implemented a Naive Bayes text classifier for document categorization.
+- Used maps and sets to organize training data and calculate word probabilities.
+- Applied logarithmic probabilities to generate classification predictions.
+
+### Image Processing
+**C++**
+- Developed image processing algorithms using C++.
+- Worked with pixel-level image manipulation, 2D vectors, and image transformations.
+
+## Languages
+
+C++ | C | Python | MATLAB
